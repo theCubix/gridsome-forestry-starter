@@ -1,5 +1,5 @@
 ---
-label: Image w/ Caption
+label: Block - Image w/ Caption
 hide_body: true
 fields:
 - name: title
