@@ -5,7 +5,9 @@ fields:
 - name: body
   type: blocks
   label: Body
-  template_types: []
+  template_types:
+  - image-w-caption
+  - gallery
   config:
     min: 
     max: 
