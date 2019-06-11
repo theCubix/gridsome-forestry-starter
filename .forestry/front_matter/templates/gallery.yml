@@ -1,14 +1,12 @@
 ---
-label: Gallery
+label: Block - Gallery
 hide_body: true
 fields:
 - name: title
-  type: blocks
-  label: Title
-  template_types: []
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: Title
 - name: images
   type: image_gallery
   config: {}
