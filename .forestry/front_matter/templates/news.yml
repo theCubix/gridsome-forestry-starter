@@ -1,4 +1,11 @@
 ---
 label: News
 hide_body: false
-fields: []
+fields:
+- name: body
+  type: blocks
+  label: Body
+  template_types: []
+  config:
+    min: 
+    max: 
