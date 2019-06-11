@@ -11,3 +11,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- news/Lets get started.md
